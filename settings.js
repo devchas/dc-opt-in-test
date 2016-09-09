@@ -1,4 +1,4 @@
-exports.url = 'http://localhost:3090';
-exports.senderEmail = "sender@example.com";
-exports.senderName = "Sender Name";
+exports.url = 'https://dc-opt-in.herokuapp.com';
+exports.senderEmail = "devin@meetinghop.com";
+exports.senderName = "Devin Chasanoff";
 exports.listID = 348282;
